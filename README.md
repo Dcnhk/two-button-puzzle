@@ -1,6 +1,7 @@
 # 两按钮关卡：最优解的完整推导
 
 一道关卡题的最优期望通关策略求解：两个按钮随机加点/扣点，每天 6 击，达成「和为 100 且差 ≤5」或「左右各点 60 次」即通关。
+<img width="865" height="429" alt="image" src="https://github.com/user-attachments/assets/921e028c-d29d-43e4-b43c-55023837fb7d" />
 
 ---
 
